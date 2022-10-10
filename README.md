@@ -1,2 +1,1 @@
-# from-nand-to-tetris
-From NAND to Tetris
+# From NAND to Tetris
